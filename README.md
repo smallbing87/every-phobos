@@ -6,6 +6,7 @@ It's only 3arthh4ck was archived at the moment, maybe I'll upload phobos in the 
 
 # Phobos and its skids part
 ## ALL OF THEM ARE UNCHECKED
+Shits like 1.6.9/2.0.0 and others are skids, and they're NOT offical Phobos
 
 
 
@@ -33,7 +34,7 @@ https://cdn.discordapp.com/attachments/869869035108581396/869869069866778644/CLE
 https://cdn.discordapp.com/attachments/869869035108581396/872171182449893426/CLEAN_Phobos_1.5.4-1.jar?ex=65f9cd36&is=65e75836&hm=691f6750a2414d739e55095c1ee6d49f6a92c6f09a87f47307201d5713368b05&   
 https://cdn.discordapp.com/attachments/869869035108581396/890876811335065610/Phobos-1.5.4-release-gamer-edition.jar?ex=65fd40af&is=65eacbaf&hm=a015302003083723d79f7f6b2506c157918f74d8ba440041a01c6ec6ccdf780c&   
 
-Phobos 1.69   
+Phobos 1.6.9   
 https://github.com/lorozin/phobos-1.6.9-src-leak/archive/refs/heads/main.zip   
 https://github.com/lorozin/phobos-1.6.9-src-leak/archive/refs/tags/1.6.9.zip   
 https://github.com/lorozin/phobos-1.6.9-src-leak/releases/download/1.6.9/phobos-1.6.9-src-leak-1.9.0-release.jar   
