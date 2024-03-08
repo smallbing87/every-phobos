@@ -1,6 +1,6 @@
 Archive made by Meowaura   
 Archived files - https://www.mediafire.com/folder/rbnp5khaxm06v/3arthh4ck   
-It's only 3arthh4ck was archived at the moment, maybe I'll upload phobos in the future (gonna waste another hour)   
+It's only 3arthh4ck were archived at the moment, maybe I'll upload phobos in the future (gonna waste another hour)   
 
 
 
