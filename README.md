@@ -404,16 +404,18 @@ https://github.com/3arthqu4ke/3arthh4ck/releases/download/1.8.5/3arthh4ck-1.8.5-
 
 ====================================1.8.6====================================
 
-https://cdn.discordapp.com/attachments/1013063916168949860/1067013600574717962/3arthh4ck-1.8.6-release.jar?ex=65f809da&is=65e594da&hm=98c7d49416a7c18f931d6f86ec04d2968288f5e68b12ddf0e7cc344d3eb3b217&   
+https://github.com/Smug2f/3arthh4ck-Client-/archive/refs/tags/1.8.6.zip   
 
 ====================================1.8.7====================================
 
-https://github.com/Ai2473/3arthh4ck/archive/refs/tags/Release.zip
+https://github.com/Ai2473/3arthh4ck/archive/refs/tags/Release.zip   
+https://github.com/Smug2f/3arthh4ck-Client-/archive/refs/tags/1.8.7.zip   
 https://github.com/Ai2473/3arthh4ck/releases/download/Release/3arthh4ck-1.8.7-release.jar   
 
 ====================================1.8.8====================================
 
 https://github.com/3arthh4ckDevelopment/3arthh4ck-Client/archive/refs/tags/1.8.8.zip   
+https://github.com/Smug2f/3arthh4ck-Client-/archive/refs/tags/1.8.8.zip   
 https://github.com/3arthh4ckDevelopment/3arthh4ck-Client/releases/download/1.8.8/3arthh4ck-1.8.8-release.jar   
 
 ====================================1.9.0====================================
